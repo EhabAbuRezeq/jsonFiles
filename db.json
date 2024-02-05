@@ -15,5 +15,12 @@
     { "id": 1001, "name": "إيهاب رزق" , "age": 40 , "salary": 5000 , "email": "ehab@mail.com" , "department": "تقنية المعلومات" },
     { "id": 1002, "name": "محمد حبيب" , "age": 32 , "salary": 3500 , "email": "habib@mail.com" , "department": "تقنية المعلومات" },
     { "id": 1003, "name": "طارق سعد" , "age": 55 , "salary": 6500 , "email": "tariq@mail.com" , "department": "الإدارة المالية" }
+  ],
+   "vacationBalance" : [
+    { "vacationTypeId": 1, "employeeId": "1001", "balance": "33","status": 1 },
+    { "vacationTypeId": 1, "employeeId": "1002", "balance": "50","status": 1 },
+    { "vacationTypeId": 2, "employeeId": "1001", "balance": "3.5","status": 2 },
+    { "vacationTypeId": 3, "employeeId": "1001", "balance": "1.25","status": 3 },
+    { "vacationTypeId": 1, "employeeId": "1003", "balance": "22.5","status": 1 }
   ]
 }
